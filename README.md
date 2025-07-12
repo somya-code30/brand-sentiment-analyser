@@ -1,4 +1,4 @@
-# Reddit Sentiment & Trend Analyzer
+# Brand Sentiment & Trend Analyzer
 
 A real-time dashboard that fetches Reddit posts for a given keyword, analyzes sentiment, detects crisis events, and extracts trending keywords.
 
